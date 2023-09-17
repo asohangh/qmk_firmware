@@ -18,4 +18,4 @@ MOUSE_SHARED_EP = yes
 
 SPLIT_KEYBOARD = yes
 
-DEFAULT_FOLDER = handwired/tractyl_manuform/5x6_right/teensy2pp
+DEFAULT_FOLDER = handwired/tractyl_manuform/5x6_right/kb2040

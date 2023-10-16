@@ -20,6 +20,8 @@
 /* Handedness. */
 #define MASTER_RIGHT
 
+#define POINTING_DEVICE_AUTO_MOUSE_ENABLE
+
 // To use the handedness pin, resistors need to be installed on the adapter PCB.
 // If so, uncomment the following code, and undefine MASTER_RIGHT above.
 // #define SPLIT_HAND_PIN GP15
